@@ -20,7 +20,15 @@ to reach me.
 
 ## User-Agent
 
+To Wikidata, which asks for a contact:
+
     JobBot/0.1 (+https://github.com/dboles99/jobbot-crawler)
+
+Everywhere else:
+
+    JobBot/0.1 (personal job search)
+
+Both start with "JobBot", so the robots.txt rule below covers both.
 
 ## Blocking it
 
